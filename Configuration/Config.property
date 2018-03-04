@@ -1,0 +1,3 @@
+geckodriver = /home/riya/geckodriver
+url = https://my.naukri.com/
+epath= /home/riya/eclipse-workspace/SeleniumCourse/TestData/Naukri_credentials.xlsx
