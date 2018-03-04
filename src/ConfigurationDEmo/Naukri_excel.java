@@ -18,7 +18,8 @@ public class Naukri_excel {
 	public Naukri_excel(String excelpath) {// yha parameter epath or excel hi?
 		
 		try {
-			//this it test
+			//thi ok
+			
 		File src = new File(excelpath);
 		
 		FileInputStream fis = new FileInputStream(src);
